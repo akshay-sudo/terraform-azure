@@ -1,11 +1,15 @@
 provider "azurerm" {
-    version = "=2.4.0"
-    features {}
+  features {}
 }
-resource "azurerm_resource_group" example {
-    name = "example"
-    location = "Central India" 
+
+resource "azurerm_resource_group" "example" {
+  name     = "example-resources"
+  location = "West Europe"
 }
-output "id" {
-    value data.azurerm_resource_group.example.id
+
+resource "azurerm_virtual_network" "example" {
+  name                = "example-network"
+  address_space       = ["10.0.0.0/16"]
+  location            = azurerm_resource_group.example.location
+  resource_group_name = azurerm_resource_group.example.name
 }
