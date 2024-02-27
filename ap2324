@@ -1,0 +1,144 @@
+/* 
+1 1.1 Capability development (Upskill, Reskill)
+To improve self-skills by getting trained & certified to give better project delivery results / outputs or to be ready for any upcoming assignment as per the business need.	
+Comments (Employees can enter the Achievements/Appraisers can provide the feedback)	        1. Akshay Anil Sawant
+	        02/24/2023
+	        Pursuing certification in Kubernetes Administration.
+	        2. Akshay Anil Sawant
+	        02/24/2023
+	        Self-upskilling of Bitbucket and ADO.
+	        Delivered CI-CD solution for S&P Climanomics Legacy using the same.
+	        3. Akshay Anil Sawant
+	        02/24/2023
+	        Completed Terraform Certification .
+	        Completed all the mandatory technical as well as soft skills trainings on time.
+	 
+	1 1.2 Soft skills
+	Communication, flexibility, ownership, positive attitude, proactiveness, timely updates, attending scheduled calls, team work as applicable.
+	
+	Comments (Employees can enter the Achievements/Appraisers can provide the feedback)
+	        1. Akshay Anil Sawant
+	        02/24/2023
+	        All the required pieces of training assigned on the LTI Shoshin Portal are completed on time.
+	        All the required trainings assigned by the Clients are completed on time.
+	 
+	2 1.3 Compliance to organization timesheet booking & leave policy.
+	 
+	        1. No misses or mismatches in Attendance and iTime booking.             
+	        2. No more than 0 unplanned leaves in a quarter.
+	        Associates should be strictly following the timesheet booking & leave policy as specified by organization.
+	        
+	        Comments (Employees can enter the Achievements/Appraisers can provide the feedback)
+	                1. Akshay Anil Sawant
+	                02/23/2023
+	                No misses or mismatches in Attendance and iTime booking.             
+	                No more than 0 unplanned leaves in a quarter.
+	         
+	 
+	3 1.4 Growth from existing accounts and new business
+	Growth from existing accounts and new business
+	
+	
+	Target
+	
+	
+	Goal Description
+	
+	
+	Comments (Employees can enter the Achievements/Appraisers can provide the feedback)
+	
+	        1. Akshay Anil Sawant
+	        02/24/2023
+	        1. Received additional scope of work for multiple environments
+	        Example( The Salvation Army & S&PGlobal Client.)
+	        
+	        2. Received extension for the existing environments and multiple workstreams.
+	        Example: Climanomics Legacy, MVP, Upgraded Climanomics, Bio-diversity
+	        Less
+	
+	
+	
+	 
+	4 1.5 Create positive experience to customers through innovative solutioning, proactiveness, demonstrating expertise in relevant areas; Ensure that the client is referenceable
+	
+	Create positive experience to customers through innovative solutioning, proactiveness, demonstrating expertise in relevant areas; Ensure that the client is referenceable
+	
+	
+	Target
+	
+	
+	Goal Description
+	
+	
+	Comments (Employees can enter the Achievements/Appraisers can provide the feedback)
+	
+	        1. Akshay Anil Sawant
+	        02/24/2023
+	        1. Created a positive experience for customers so we received another contract with additional scope of work
+	        
+	        2. Went over and above the shift roaster. Been working for more than the required hours (9 HRS) consistently to manage both the project, delivery, and practice needs.
+	        
+	        3. Received appreciation from customers a couple of times over email, and calls.
+	        
+	        4. Implemented alternative solutions for latency issues and a lot of security compliance issues raised by the client's (S&P) Infosec team.
+	        
+	        5. Re-platform and redesigned the architecture as per the client's need. Performed Kubernetes Migration from OpenShift IBM to AWS EKS.
+	        
+	        6. Proactively managed the security assessment/ issues and contributed S&P Client for cloud cost-optimization.
+	        Less
+	
+	
+	
+	         
+ 	 
+	        4.  
+ 
+6 1.6 CSAT and CSI
+Akshay Anil Sawant
+02/24/2023
+1. Knowledge of Client stakeholders - Escalation matrix:
+Up-to-date with customer hierarchy and stakeholder info by 101 as well as daily connects.
+
+
+2. Understanding & Adherence to Contractual terms:
+Complete understanding of customers asks/contractual terms. Helped come up with program roadmap due to the same. Went over and above the SoW activities to help the S&P onboard climanomics to its fold.
+
+3. Provided up-to-date inputs about deliveries made along with stakeholder information.
+		 
+		 
+		 
+7 1.7 Smooth, effective delivery
+Appreciation, recognition mails from client / account stakeholders; no negative mails or comments on work handling.
+		
+Smooth, effective delivery
+Target	Appreciation, recognition mails from client / account stakeholders; no negative mails or comments on work handling.	
+Goal Description		Technical capabilities demonstration, completing work in time appropriately.
+Comments (Employees can enter the Achievements/Appraisers can provide the feedback)		        1. Akshay Anil Sawant
+		        02/24/2023
+		        Timely updates to customers and delivery about changes in tasks status and personal situations if any.
+		        Example:
+		        1) Lead the team during a critical crisis and short timelines. Received appreciation from customer CIO as well as LTIMindtree leadership
+		        2) Regularly conducted team huddles to maximize productivity and help with any issues/doubts if team might have
+		
+		 
+		SLAs and KPIs Management
+		 
+Akshay Anil Sawant
+02/24/2023
+		Practice Level
+		
+		1. Participated in weekend drives - both offshore and onsite
+		2. Mentored associates
+		3. Act as SPOC TSA from CIS since there was no managerial role assigned, (same with S&P Global for the initial weeks)
+		
+		Account Level - Contributed to the below technical solutions -
+		
+		4. Terraform core modules (to be used by ALL Sustainable1 projects/apps)
+		a. Write modules from scratch
+		b. Established standards considering the Security and compliance policies
+		c. Contributed to creating shared Modules which can use across the environment /projects
+		
+		5. Migration solutions from IBM Cloud to AWS TCS and from AWS TCS to AWS S1 accounts    
+		6. Involved in remediating and sustaining security issues
+		7. Taken interviews for the practice and verticals.
+*/
