@@ -18,18 +18,20 @@ resource "azurerm_private_dns_zone" "storage_account_dns_zone" {
   name                = var.private_dns_zone_name  
     resource_group_name = var.resource_group_name
 }  
+/*
 resource "azurerm_private_dns_a_record" "storage_account_dns_record" {  
   name                = azurerm_storage_account.appstore.name  
   zone_name           = azurerm_private_dns_zone.storage_account_dns_zone.name  
   resource_group_name = var.resource_group_name  
   ttl                 = 300  
   records             = [azurerm_storage_account.appstore.primary_blob_endpoint]  
-}  
+} 
+*/
 resource "azurerm_private_endpoint" "storage_account_private_endpoint" {  
   name                = var.private_endpoint_name  
   location            = var.location 
   resource_group_name = var.resource_group_name  
-  subnet_id           = [data.azurerm_subnet.virtualSubnets1.*.id]  
+  subnet_id           = flatten(data.aws_subnet_ids.public.ids)[0]  
   private_service_connection {  
     name                           = var.private_service_connection
     private_connection_resource_id = azurerm_storage_account.appstore.id  
@@ -40,4 +42,7 @@ resource "azurerm_private_endpoint" "storage_account_private_endpoint" {
     name         = azurerm_private_dns_zone.storage_account_dns_zone.name  
     private_dns_zone_ids = [azurerm_private_dns_zone.storage_account_dns_zone.id]  
   }  
+  depends_on = [
+    azurerm_private_dns_zone.storage_account_dns_zone
+  ]
 }  
