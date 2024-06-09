@@ -61,3 +61,11 @@ resource "aws_cloudformation_stack" "passwd-policy" {
 
   template_body = file("${path.module}/password-policy.yaml")
 }
+
+
+##
+#awsRegion= "us-east-1"
+#
+#Key= "eFU3G4Rx9JtWQdCXxe6cxZjfpoxxp8QflhywiTz8"
+
+#stackName= "CEdeltaCFT2TFManTest01"
