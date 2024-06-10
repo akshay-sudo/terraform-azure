@@ -65,7 +65,8 @@ resource "aws_cloudformation_stack" "passwd-policy" {
 
 ##
 #awsRegion= "us-east-1"
-#
+#AlHf17[7#-NR{58$ke'@]3FQ_
+
 #Key= "eFU3G4Rx9JtWQdCXxe6cxZjfpoxxp8QflhywiTz8"
 
 #stackName= "CEdeltaCFT2TFManTest01"
